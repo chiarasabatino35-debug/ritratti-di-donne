@@ -21,4 +21,4 @@ Il progetto è stato sviluppato in un ambiente Google Colab utilizzando il lingu
 ## Responsabili 
 Chiara Sabatino 
 ## Licenza 
-I dati di output sono rilasciati sotto licenza CCO 1.0 Universal.
+I dati di output sono rilasciati sotto licenza CCO 1.0 Universal ( https://creativecommons.org/publicdomain/zero/1.0/ ).
