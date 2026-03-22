@@ -5,7 +5,7 @@ L'obiettivo di questo progetto è mettere in evidenza, oltre al "gender gap", co
 ## Quali sono i risultati? 
 2124 uomini contro 36 donne in un dataframe di 2444 righe non è un caso. I dati analizzati riportano quello che è un sistema di esclusione che va avanti da tempo. Abbiamo avuto la conferma che le donne, per diverse ragioni, erano confinate nel genere del ritratto e dell'autoritratto; mentre la produzione maschile è decisamente più varia. Tuttavia, questa forma di esclusione sembra non coinvolgere il "luogo" nel quale le opere si trovano. Questo dimostra che, nonostante tutto, il valore storico-artistico delle opere realizzate da artiste donne è stato riconosciuto da importanti istituzioni culturali.
 ## Fonte dei dati
-I dati di input utilizzati sono stati presi da un file CSV ("https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv") di 229.3+ KB.
+I dati di input utilizzati sono stati presi da un file CSV ("https://raw.githubusercontent.com/dhdmch/2025-2026/refs/heads/main/data/vapod/data.csv") di 229.3+ KB. Le variabili considerate sono:
 
 | Variabile | Tipo | Definizione | Esempio |
 | :--- | :--- | :--- | :--- |
