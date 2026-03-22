@@ -16,3 +16,9 @@ I dati di output consistono in questo notebook, comprendente testo e codice per 
 | **museo** | object | Luogo di conservazione dell'opera. | Museu Nacional |
 | **tecnica** | object | Materiali e metodo di realizzazione. | olio su tela |
 | **anno** | float64 | Anno di creazione dell'opera. | 1850.0 |
+## Metodi e strumenti
+Il progetto è stato sviluppato in un ambiente Google Colab utilizzando il linguaggio di programmazione Python. Lo strumento principale utilizzato per la manipolazione, l'analisi e la visualizzazione dei dati è la libreria Pandas.
+## Responsabili 
+Chiara Sabatino 
+## Licenza 
+I dati di output sono rilasciati sotto licenza CCO 1.0 Universal.
