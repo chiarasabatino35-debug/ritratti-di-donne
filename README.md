@@ -1,4 +1,4 @@
-# Nome del progetto: Ritratti di donne
+## Ritratti di donne
 ## Descrizione
 Il mondo della storia dell'arte è, da sempre, dominato da figure maschili: da Giotto a Picasso, da Botticelli a De Chirico, da Raffaello a Pollock, da Rubens a Van Gogh e altri centinaia di migliaia di nomi. Il ruolo femminile sembra essere rilegato a quello della cosiddetta "musa ispiratrice". Eppure, non poche sono le artiste che hanno saputo distringuersi nel panorama storico-artistico, nonostante le convenzioni sociali che impedivano loro di esprimersi al 100%.
 L'obiettivo di questo progetto è mettere in evidenza, oltre al "gender gap", come le restrizioni sociali abbiano influenzato la produzione artistica femminile. E' vero che le donne realizzavano principalmente ritratti e autoritratti? E', forse, anche vero che questa "distinzione sociale" si riflette anche sulla collocazione delle loro opere? E' a queste domande che il progetto "Ritratti di donne" intende dare una risposta.  
@@ -17,7 +17,7 @@ I dati di input utilizzati sono stati presi da un file CSV ("https://raw.githubu
 | **tecnica** | object | Materiali e metodo di realizzazione. | olio su tela |
 | **anno** | float64 | Anno di creazione dell'opera. | 1850.0 |
 ## Metodi e strumenti
-Il progetto è stato sviluppato in un ambiente Google Colab utilizzando il linguaggio di programmazione Python. Lo strumento principale utilizzato per la manipolazione, l'analisi e la visualizzazione dei dati è la libreria Pandas.
+Il progetto è stato sviluppato in un ambiente Google Colab utilizzando il linguaggio di programmazione Python. Per la manipolazione, l'analisi e la visualizzazione dei dati è stata utilizzata la libreria Pandas.
 ## Responsabili 
 Chiara Sabatino 
 ## Licenza 
