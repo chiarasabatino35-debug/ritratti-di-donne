@@ -1,4 +1,6 @@
 ## Ritratti di donne
+## DOI
+https://doi.org/10.5281/zenodo.19206698
 ## Descrizione
 Il mondo della storia dell'arte è, da sempre, dominato da figure maschili: da Giotto a Picasso, da Botticelli a De Chirico, da Raffaello a Pollock, da Rubens a Van Gogh e altri centinaia di migliaia di nomi. Il ruolo femminile sembra essere rilegato a quello della cosiddetta "musa ispiratrice". Eppure, non poche sono le artiste che hanno saputo distringuersi nel panorama storico-artistico, nonostante le convenzioni sociali che impedivano loro di esprimersi al 100%.
 L'obiettivo di questo progetto è mettere in evidenza, oltre al "gender gap", come le restrizioni sociali abbiano influenzato la produzione artistica femminile. E' vero che le donne realizzavano principalmente ritratti e autoritratti? E', forse, anche vero che questa "distinzione sociale" si riflette anche sulla collocazione delle loro opere? E' a queste domande che il progetto "Ritratti di donne" intende dare una risposta.  
